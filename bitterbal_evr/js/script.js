@@ -4,7 +4,9 @@
 //M.A.W. tot zolang de startwaarde kleiner is dan de eindwaarde
     //3. Ga binnen de loop na als de  startwaarde op dat moment deelbaar is door 3 EN als die deelbaar is door 5
     //TIP: gerbuik restwaarde %
-
+let createSomething = functi(){
+    
+}
 
 
 // Fancy
